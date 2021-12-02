@@ -1,6 +1,6 @@
-# honeyswap-landing-page
+# dEXaswap-landing-page
 
-honeyswap landing page built on css gird, flexbox and javascript
+dEXaswap landing page built on css gird, flexbox and javascript
 
 [google analytics - gtag.js](https://developers.google.com/analytics "analytics docs")
 
