@@ -10,12 +10,13 @@
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs28" />
+     id="defs5" />
   <sodipodi:namedview
-     id="namedview26"
+     id="namedview3"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -23,53 +24,23 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="8.5773196"
-     inkscape:cx="58.584736"
-     inkscape:cy="48.558293"
+     inkscape:zoom="2.2952612"
+     inkscape:cx="49.01403"
+     inkscape:cy="83.432772"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg24" />
-  <circle
-     cx="48.005"
-     cy="48.005"
-     r="48.005"
-     fill="#FFF19F"
-     id="circle2" />
-  <circle
-     cx="48.5"
-     cy="48.5"
-     r="35.5"
-     fill="#C6F8E3"
-     fill-opacity="0.6"
-     id="circle4" />
-  <path
-     d="M61.3647 62.9133H34.2725L46.5796 70.0158C47.3156 70.4426 48.1512 70.6677 49.002 70.6682C49.8528 70.6686 50.6887 70.4446 51.4252 70.0186L63.7373 62.9129L61.3647 62.9133Z"
-     fill="#475459"
-     id="path14" />
-  <path
-     d="M63.9994 39.8546L63.6953 39.679H34.3145L34.0089 39.8555C33.2743 40.2809 32.6639 40.8913 32.2387 41.626C31.8135 42.3607 31.5883 43.194 31.5854 44.0428V47.2262H66.4164V44.0433C66.4133 43.1951 66.1887 42.3623 65.7648 41.6276C65.3409 40.8929 64.7323 40.2817 63.9994 39.8546Z"
-     fill="#FFDD0F"
-     id="path18" />
-  <path
-     d="M65.1619 55.3661H31.585V58.5653C31.587 59.4158 31.812 60.2509 32.2375 60.9873C32.663 61.7237 33.2741 62.3358 34.0099 62.7623L34.2723 62.9139H63.7372L64.0045 62.7595C64.7367 62.3309 65.3442 61.7185 65.767 60.983C66.1898 60.2475 66.4132 59.4143 66.4152 58.566V55.3668L65.1619 55.3661Z"
-     fill="#FFDD0F"
-     id="path20" />
-  <path
-     d="M51.4263 32.5984C50.6907 32.1722 49.8556 31.9477 49.0054 31.9475C48.1553 31.9474 47.3201 32.1716 46.5844 32.5976L34.314 39.6791H63.6956L51.4263 32.5984Z"
-     fill="#475459"
-     id="path22" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-     x="34.393028"
-     y="55.145435"
-     id="text11028"><tspan
-       sodipodi:role="line"
-       id="tspan11026"
-       x="34.393028"
-       y="55.145435"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">dEXa</tspan></text>
+  <image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="99.445732"
+     height="100.02821"
+     style="image-rendering:optimizeQuality"
+     xlink:href="../../../../Pictures/gt%20.svg"
+     id="image835"
+     x="-1.4524633"
+     y="-1.4970512" />
 </svg>

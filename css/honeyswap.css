@@ -573,7 +573,11 @@ p {
   align-items: center;
   border-radius: 50%;
   background-color: #fcf1f100;
+<<<<<<< HEAD
   box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.08);
+=======
+  box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.083);
+>>>>>>> 76861771cb56c78b5974481bcfd06f286d15ff38
 }
 
 .left-arrow {
